@@ -13,7 +13,7 @@ This is **NOT** a pack made for building, this pack is for PvP, eggwars, and sky
 
 ## ⬇️ Downloads
 
-[https://unverifiedclient.com/texturepack](https://unverifiedclient.glitch.me/texturepack.html)
+[Press This To Download](https://github.com/wytlines100/skibidi-textures/releases/download/Tpack/Unverifed.x.zPoshful.zip)
 
 (most likely will work in any browser if you press load unpacked with developer mode on)
 
@@ -29,10 +29,16 @@ Orginal Sprite by: Heythereu
 
 Pack Ported by: Wytlines
 
+From my license you are not allow to modify and use for any type of public use meaning public github repos or youtube videos without contacting me by gmail or I **WILL** DMCA you.
+
+
+## Contacts
 
 Any issues with pack? Contact me!
 
-Discord: @wytlines  *I HAVE NO ALT ACCOUNTS
+Gmail: rfd6108@gmail.com
 
 Discord server: https://dsc.gg/unverifiedv2
+
+
 
